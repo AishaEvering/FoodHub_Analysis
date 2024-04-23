@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/FoodHub_Analysis/blob/main/FoodHub.png" alt="Face Verfication" width="300" height="300">
+   <img src="https://github.com/AishaEvering/FoodHub_Analysis/blob/main/FoodHub.png" alt="Food Delivery Guy" width="300" height="300">
 </p>
 
 # Food Hub Analysis (EDA)
@@ -24,7 +24,7 @@ Delved into the world of exploratory data analysis (EDA), utilizing Python's pow
 
 ## 🔑 Key Takeaways
 
-* Not all Data Science involves building models.  Sometimes the ability to invesigate the data is enough.
+* Not all Data Science involves building models.  Sometimes the ability to investigate the data is enough.
 
 
 ### 😤 Where I Got Stuck
